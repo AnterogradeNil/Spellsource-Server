@@ -7,7 +7,7 @@
   "baseHp": 4,
   "rarity": "EPIC",
   "race": "MECH",
-  "description": "When a player has at least 4 minions and summons another, return it to their hand. Peacefully.",
+  "description": "When a player has at least 4 minions, all minions in their hand cost (1) more and are returned to their hand when summoned.",
   "triggers": [
     {
       "eventTrigger": {
